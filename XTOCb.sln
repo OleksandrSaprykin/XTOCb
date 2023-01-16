@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTOCb", "XTOCb\XTOCb.csproj", "{AA29E95C-1BA1-4EEA-9F99-D9009281A714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA29E95C-1BA1-4EEA-9F99-D9009281A714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA29E95C-1BA1-4EEA-9F99-D9009281A714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA29E95C-1BA1-4EEA-9F99-D9009281A714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA29E95C-1BA1-4EEA-9F99-D9009281A714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C0D1450-1096-4861-AE10-180E9B3B1BE8}
+	EndGlobalSection
+EndGlobal
